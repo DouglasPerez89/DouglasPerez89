@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Douglas
-- 👀 I’m interested in in learning about the world of programming and technology.
+- 👀 I’m interested in learning about the world of programming and technology.
 - 🌱 I am currently learning HTML5, CSS3 and JavaScript, if an internship opportunity with other technologies arises I am completely open to all kinds of learning and development.
-- 💞️ II'm looking for internshi p.
+- 💞️ II'm looking for internship.
 - 📫 perez.pdouglas@gmail.com / 48 996 24 2311.
 
 <!---
